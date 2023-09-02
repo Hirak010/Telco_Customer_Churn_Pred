@@ -12,4 +12,4 @@ This value factors in unique and proprietary predictions of how long a user will
 We will be working on a telecom company and find out whether the customers will be using the telecom services or not.
 
 ## Dataset
-The dataset is tel_churn.csv
+The dataset is WA_Fn-UseC_-Telco-Customer-Churn.csv
